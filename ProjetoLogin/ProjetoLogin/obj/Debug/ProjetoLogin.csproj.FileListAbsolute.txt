@@ -1,0 +1,12 @@
+C:\Users\Gustavo\Desktop\Repositorio\Trabalho\ProjetoLogin\ProjetoLogin\bin\Debug\ProjetoLogin.exe.config
+C:\Users\Gustavo\Desktop\Repositorio\Trabalho\ProjetoLogin\ProjetoLogin\bin\Debug\ProjetoLogin.exe
+C:\Users\Gustavo\Desktop\Repositorio\Trabalho\ProjetoLogin\ProjetoLogin\bin\Debug\ProjetoLogin.pdb
+C:\Users\Gustavo\Desktop\Repositorio\Trabalho\ProjetoLogin\ProjetoLogin\obj\Debug\ProjetoLogin.csproj.AssemblyReference.cache
+C:\Users\Gustavo\Desktop\Repositorio\Trabalho\ProjetoLogin\ProjetoLogin\obj\Debug\ProjetoLogin.Apresentacao.BemVindo.resources
+C:\Users\Gustavo\Desktop\Repositorio\Trabalho\ProjetoLogin\ProjetoLogin\obj\Debug\ProjetoLogin.Apresentacao.CadastreSe.resources
+C:\Users\Gustavo\Desktop\Repositorio\Trabalho\ProjetoLogin\ProjetoLogin\obj\Debug\ProjetoLogin.Form1.resources
+C:\Users\Gustavo\Desktop\Repositorio\Trabalho\ProjetoLogin\ProjetoLogin\obj\Debug\ProjetoLogin.Properties.Resources.resources
+C:\Users\Gustavo\Desktop\Repositorio\Trabalho\ProjetoLogin\ProjetoLogin\obj\Debug\ProjetoLogin.csproj.GenerateResource.cache
+C:\Users\Gustavo\Desktop\Repositorio\Trabalho\ProjetoLogin\ProjetoLogin\obj\Debug\ProjetoLogin.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Desktop\Repositorio\Trabalho\ProjetoLogin\ProjetoLogin\obj\Debug\ProjetoLogin.exe
+C:\Users\Gustavo\Desktop\Repositorio\Trabalho\ProjetoLogin\ProjetoLogin\obj\Debug\ProjetoLogin.pdb
